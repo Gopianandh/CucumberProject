@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="314.185726">
+<testcase classname="Verifying Adaction Deatil" name="Validating Adacting Booking MOdul" time="314.185726">
+<system-out><![CDATA[Given User Is On Adactin Hotel Page.........................................passed
+When User Shoud Enter "sarathy2595"and"winner2511"..........................passed
+Then User in search Hotel page enter"Sydney","Hotel Creek","Standard","2 - Two","21/10/2020","23/10/2020","2 - Two","1 - One".passed
+Then User is Search the hotel...............................................passed
+And User in book hotel page "go","pi","chennai".............................passed
+Then user should verify navigate and generate orderno.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
